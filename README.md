@@ -19,6 +19,6 @@ and visit localhost:5000 and start finding your paths.
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/ChatBox-App/blob/master/LICENSE)
+[MIT](https://github.com/web-codegrammer/Mapbox-GMaps-Clone/blob/master/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
