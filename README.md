@@ -17,6 +17,8 @@ goto your browser
 
 and visit localhost:5000 and start finding your paths.
 
+Note : You cans set your default longitude & latitude in the Js Code repository.
+
 ## License 
 
 [MIT](https://github.com/web-codegrammer/Mapbox-GMaps-Clone/blob/master/LICENSE)
