@@ -17,7 +17,7 @@ goto your browser
 
 and visit localhost:5000 and start finding your paths.
 
-Note : You cans set your default longitude & latitude in the Js Code repository.
+## Note : You cans set your default longitude & latitude in the Js Code repository.
 
 ## License 
 
