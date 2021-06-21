@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c3b5c9e9-cdb1-48ac-9a24-ed47cace4c80/deploy-status)](https://app.netlify.com/sites/web-codegrammer-gmaps-clone/deploys)
 #  G Maps Clone Using Mapbox
 
 ## Introduction
